@@ -49,3 +49,21 @@
 [18:10:35] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
 [18:10:36] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/Classboard-Official-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
 [18:28:33] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/Classboard-Official-Server/bungee/server-icon.png
+[18:40:54] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35750]: Connected via websocket
+[18:40:54] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35750]: Origin header is https://eaglercrack.vercel.app
+[18:40:54] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35750]: Logged in as 'dev_'
+[18:40:54] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:35750|dev_] -> UpstreamBridge has connected
+[18:40:54] [Netty Worker IO Thread #6/INFO]: [dev_|/[0:0:0:0:0:0:0:1%0]:35750] <-> ServerConnector [lobby] has connected
+[18:40:54] [Netty Worker IO Thread #6/ERROR]: [dev_|/[0:0:0:0:0:0:0:1%0]:35750] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+[18:40:54] [Netty Worker IO Thread #6/INFO]: [dev_] disconnected with: Exception Connecting:QuietException : Server is online mode!
+[18:40:54] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:35750|dev_] -> UpstreamBridge has disconnected
+[18:40:54] [Netty Worker IO Thread #6/INFO]: [dev_|/[0:0:0:0:0:0:0:1%0]:35750] <-> ServerConnector [lobby] has disconnected
+[18:43:08] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52848]: Connected via websocket
+[18:43:08] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52848]: Origin header is https://eaglercrack.vercel.app
+[18:43:09] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52848]: Logged in as 'cheez_knees_is_L'
+[18:43:09] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:52848|cheez_knees_is_L] -> UpstreamBridge has connected
+[18:43:09] [Netty Worker IO Thread #0/INFO]: [cheez_knees_is_L|/[0:0:0:0:0:0:0:1%0]:52848] <-> ServerConnector [lobby] has connected
+[18:43:09] [Netty Worker IO Thread #0/ERROR]: [cheez_knees_is_L|/[0:0:0:0:0:0:0:1%0]:52848] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+[18:43:09] [Netty Worker IO Thread #0/INFO]: [cheez_knees_is_L] disconnected with: Exception Connecting:QuietException : Server is online mode!
+[18:43:09] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:52848|cheez_knees_is_L] -> UpstreamBridge has disconnected
+[18:43:09] [Netty Worker IO Thread #0/INFO]: [cheez_knees_is_L|/[0:0:0:0:0:0:0:1%0]:52848] <-> ServerConnector [lobby] has disconnected

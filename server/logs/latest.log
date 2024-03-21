@@ -629,3 +629,5 @@
 [18:34:00] [Server thread/INFO]: [0;31;1mYou must be a player to execute this command![m
 
 [18:34:08] [Server thread/INFO]: Opped dev_
+[18:40:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b0c42e3[id=<null>,name=dev_,properties={},legacy=false] (/[0:0:0:0:0:0:0:1]:59196) lost connection: Disconnected
+[18:43:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@c8a9774[id=<null>,name=cheez_knees_is_L,properties={},legacy=false] (/[0:0:0:0:0:0:0:1]:44764) lost connection: Disconnected
