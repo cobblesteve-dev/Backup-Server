@@ -67,3 +67,54 @@
 [18:43:09] [Netty Worker IO Thread #0/INFO]: [cheez_knees_is_L] disconnected with: Exception Connecting:QuietException : Server is online mode!
 [18:43:09] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:52848|cheez_knees_is_L] -> UpstreamBridge has disconnected
 [18:43:09] [Netty Worker IO Thread #0/INFO]: [cheez_knees_is_L|/[0:0:0:0:0:0:0:1%0]:52848] <-> ServerConnector [lobby] has disconnected
+[18:47:17] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38386]: Connected via websocket
+[18:47:17] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38386]: Origin header is https://eaglercrack.vercel.app
+[18:47:17] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38386]: Logged in as 'dev_'
+[18:47:17] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:38386|dev_] -> UpstreamBridge has connected
+[18:47:17] [Netty Worker IO Thread #1/INFO]: [dev_|/[0:0:0:0:0:0:0:1%0]:38386] <-> ServerConnector [lobby] has connected
+[18:47:17] [Netty Worker IO Thread #1/ERROR]: [dev_|/[0:0:0:0:0:0:0:1%0]:38386] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+[18:47:17] [Netty Worker IO Thread #1/INFO]: [dev_] disconnected with: Exception Connecting:QuietException : Server is online mode!
+[18:47:17] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:38386|dev_] -> UpstreamBridge has disconnected
+[18:47:17] [Netty Worker IO Thread #1/INFO]: [dev_|/[0:0:0:0:0:0:0:1%0]:38386] <-> ServerConnector [lobby] has disconnected
+[18:47:31] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35334]: Connected via websocket
+[18:47:31] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35334]: Origin header is https://eaglercrack.vercel.app
+[18:47:31] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35334]: Logged in as 'dev_'
+[18:47:31] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:35334|dev_] -> UpstreamBridge has connected
+[18:47:31] [Netty Worker IO Thread #3/INFO]: [dev_|/[0:0:0:0:0:0:0:1%0]:35334] <-> ServerConnector [lobby] has connected
+[18:47:31] [Netty Worker IO Thread #3/ERROR]: [dev_|/[0:0:0:0:0:0:0:1%0]:35334] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+[18:47:31] [Netty Worker IO Thread #3/INFO]: [dev_] disconnected with: Exception Connecting:QuietException : Server is online mode!
+[18:47:31] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:35334|dev_] -> UpstreamBridge has disconnected
+[18:47:31] [Netty Worker IO Thread #3/INFO]: [dev_|/[0:0:0:0:0:0:0:1%0]:35334] <-> ServerConnector [lobby] has disconnected
+[18:49:13] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52208]: Connected via websocket
+[18:49:13] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52208]: Origin header is https://eaglercrack.vercel.app
+[18:49:13] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52208]: Logged in as 'dev_'
+[18:49:13] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:52208|dev_] -> UpstreamBridge has connected
+[18:49:13] [Netty Worker IO Thread #5/INFO]: [dev_|/[0:0:0:0:0:0:0:1%0]:52208] <-> ServerConnector [lobby] has connected
+[18:49:13] [Netty Worker IO Thread #5/ERROR]: [dev_|/[0:0:0:0:0:0:0:1%0]:52208] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+[18:49:13] [Netty Worker IO Thread #5/INFO]: [dev_] disconnected with: Exception Connecting:QuietException : Server is online mode!
+[18:49:13] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:52208|dev_] -> UpstreamBridge has disconnected
+[18:49:13] [Netty Worker IO Thread #5/INFO]: [dev_|/[0:0:0:0:0:0:0:1%0]:52208] <-> ServerConnector [lobby] has disconnected
+[18:50:07] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53496]: Connected via websocket
+[18:50:07] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53496]: Origin header is https://eaglercrack.vercel.app
+[18:50:07] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53496]: Logged in as 'dev_'
+[18:50:07] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:53496|dev_] -> UpstreamBridge has connected
+[18:50:07] [Netty Worker IO Thread #6/INFO]: [dev_|/[0:0:0:0:0:0:0:1%0]:53496] <-> ServerConnector [lobby] has connected
+[18:50:38] [Netty Worker IO Thread #6/INFO]: [dev_] disconnected with: Login timed out!
+[18:50:38] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:53496|dev_] -> UpstreamBridge has disconnected
+[18:50:38] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:53496|dev_] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:50:41] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46578]: Connected via websocket
+[18:50:41] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46578]: Origin header is https://eaglercrack.vercel.app
+[18:50:41] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46578]: Logged in as 'dev_'
+[18:50:41] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:46578|dev_] -> UpstreamBridge has connected
+[18:50:41] [Netty Worker IO Thread #7/INFO]: [dev_|/[0:0:0:0:0:0:0:1%0]:46578] <-> ServerConnector [lobby] has connected
+[18:50:58] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:46578|dev_] -> UpstreamBridge has disconnected
+[18:50:58] [Netty Worker IO Thread #7/INFO]: [dev_] disconnected with: Proxy lost connection to server.
+[18:50:58] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:46578|dev_] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:51:01] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35374]: Connected via websocket
+[18:51:01] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35374]: Origin header is https://eaglercrack.vercel.app
+[18:51:01] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35374]: Logged in as 'dev_'
+[18:51:01] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:35374|dev_] -> UpstreamBridge has connected
+[18:51:01] [Netty Worker IO Thread #1/INFO]: [dev_|/[0:0:0:0:0:0:0:1%0]:35374] <-> ServerConnector [lobby] has connected
+[18:55:55] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:35374|dev_] -> UpstreamBridge has disconnected
+[18:55:55] [Netty Worker IO Thread #1/INFO]: [dev_] disconnected with: Proxy lost connection to server.
+[18:55:55] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:35374|dev_] <-> DownstreamBridge <-> [lobby] has disconnected
